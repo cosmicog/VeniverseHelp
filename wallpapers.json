@@ -2,32 +2,32 @@
 	{
 		"name": "Awesome ISS View",
 		"author": "NASA",
-		"url": "",
-		"thumbnail": "",
+		"url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/iss.png",
+		"thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/iss.png",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
 		"name": "The Mountain",
 		"author": "Daniel Leone",
-		"url": "",
-		"thumbnail": "",
+		"url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/mountain.jpg",
+		"thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/mountain.jpg",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
 		"name": "S10 Blurred",
 		"author": "Samsung",
-		"url": "",
-		"thumbnail": "",
+		"url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/s10_blurred.jpg",
+		"thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/s10_blurred.jpg",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
 		"name": "Aerial View",
 		"author": "Unknown for now",
-		"url": "",
-		"thumbnail": "",
+		"url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/aerial.jpg",
+		"thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/aerial.jpg",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
