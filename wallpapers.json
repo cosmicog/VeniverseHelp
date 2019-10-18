@@ -31,6 +31,14 @@
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/aerial.jpg",
             "downloadable": true,
             "copyright": "CreativeCommons Attribution-ShareALike"
+        },
+        {
+            "name": "Black + Blue",
+            "author": "Unknown for now",
+            "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_blue.png",
+            "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_blue.png",
+            "downloadable": true,
+            "copyright": "CreativeCommons Attribution-ShareALike"
         }
     ]
 }
