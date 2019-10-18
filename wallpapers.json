@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Awesome ISS View",
+		"author": "NASA",
+		"url": "",
+		"thumbnail": "",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+    {
+		"name": "The Mountain",
+		"author": "Daniel Leone",
+		"url": "",
+		"thumbnail": "",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+    {
+		"name": "S10 Blurred",
+		"author": "Samsung",
+		"url": "",
+		"thumbnail": "",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+    {
+		"name": "Aerial View",
+		"author": "Unknown for now",
+		"url": "",
+		"thumbnail": "",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+]
