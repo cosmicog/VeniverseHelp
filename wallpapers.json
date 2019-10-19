@@ -33,7 +33,7 @@
             "copyright": "CreativeCommons Attribution-ShareALike"
         },
         {
-            "name": "Black + Blue",
+            "name": "Black plus Blue",
             "author": "Unknown for now",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_blue.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_blue.png",
@@ -41,7 +41,7 @@
             "copyright": "CreativeCommons Attribution-ShareALike"
         },
         {
-            "name": "Black + Yellow",
+            "name": "Black plus Yellow",
             "author": "Unknown + Orhan G. Hafif",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_yellow.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_yellow.png",
@@ -49,7 +49,7 @@
             "copyright": "CreativeCommons Attribution-ShareALike"
         },
         {
-            "name": "Black + Green",
+            "name": "Black plus Green",
             "author": "Unknown + Orhan G. Hafif",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_green.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_green.png",
@@ -57,10 +57,17 @@
             "copyright": "CreativeCommons Attribution-ShareALike"
         },
         {
-            "name": "Black + Grey",
+            "name": "Black plus Grey",
             "author": "Unknown + Orhan G. Hafif",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_grey.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_grey.png",
+            "downloadable": true,
+            "copyright": "CreativeCommons Attribution-ShareALike"
+        },
+        {
+            "name": "Black Polygons",
+            "author": "SUWALS (?)",
+            "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_polygons.png",
             "downloadable": true,
             "copyright": "CreativeCommons Attribution-ShareALike"
         },
