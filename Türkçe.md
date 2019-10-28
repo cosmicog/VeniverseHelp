@@ -7,7 +7,7 @@ Ana Ekran;
 Dikey olarak daha kısa olan cihazlar için bu ayarlarla oynayabilirsiniz.
 
 Alt Panel Seçenekleri:
-- ALt panel arka planı: [Bu repo içerisindeki panel arkaplanlarından birisini](https://github.com/cosmicog/VeniverseHelp/tree/master/dock_backgrounds) seçerek panel arkaplanı yapın. Buradaki yaptığımız hile, kare bir resimle istediğimiz şekli verebilmek. Çünkü Nova bizim kare harici resim seçtirmemize izin vermiyor.
+- ALt panel arka planı: [Bu repo içerisindeki panel arkaplanlarından birisini](https://github.com/cosmicog/VeniverseHelp/tree/master/dock_backgrounds) seçerek panel arkaplanı yapın; İçerik: seçtiğiniz resim + Doldur, Şekil: Özel(Hepsi %0, Doldur:kapalı) Buradaki yaptığımız hile, kare bir resimle istediğimiz şekli verebilmek. Çünkü Nova bizim kare harici resim seçtirmemize izin vermiyor.
 - Alt panel simge sayısı: 4
 - Simge düzeni: Ana ekran boyutuna eşleştir, Etiketler: Kapalı
 - Doldur: Büyük x Büyük
