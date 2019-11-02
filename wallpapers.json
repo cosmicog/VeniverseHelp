@@ -42,7 +42,7 @@
         },
         {
             "name": "Black plus Yellow",
-            "author": "Unknown + Orhan G. Hafif",
+            "author": "Unknown plus Orhan G. Hafif",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_yellow.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_yellow.png",
             "downloadable": true,
@@ -50,7 +50,7 @@
         },
         {
             "name": "Black plus Green",
-            "author": "Unknown + Orhan G. Hafif",
+            "author": "Unknown plus Orhan G. Hafif",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_green.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_green.png",
             "downloadable": true,
@@ -58,7 +58,7 @@
         },
         {
             "name": "Black plus Grey",
-            "author": "Unknown + Orhan G. Hafif",
+            "author": "Unknown plus Orhan G. Hafif",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_grey.png",
             "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_grey.png",
             "downloadable": true,
@@ -68,6 +68,39 @@
             "name": "Black Polygons",
             "author": "SUWALS (?)",
             "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/black_polygons.jpg",
+            "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/black_polygons.jpg",
+            "downloadable": true,
+            "copyright": "CreativeCommons Attribution-ShareALike"
+        },
+        {
+            "name": "Note 9 blurred",
+            "author": "Unknown plus Orhan G. Hafif",
+            "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/note9.jpg",
+            "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/note9.jpg",
+            "downloadable": true,
+            "copyright": "CreativeCommons Attribution-ShareALike"
+        },
+        {
+            "name": "Blurred Islands",
+            "author": "Denys Nevozhai plus Orhan G. Hafif",
+            "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/island.jpg",
+            "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/island.jpg",
+            "downloadable": true,
+            "copyright": "CreativeCommons Attribution-ShareALike"
+        },
+        {
+            "name": "Playstation blurred",
+            "author": "Unknown plus Orhan G. Hafif",
+            "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/ps.jpg",
+            "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/ps.jpg",
+            "downloadable": true,
+            "copyright": "CreativeCommons Attribution-ShareALike"
+        },
+        {
+            "name": "Our Blue Planet",
+            "author": "NASA",
+            "url": "https://github.com/cosmicog/VeniverseHelp/raw/master/walls/earth.png",
+            "thumbnail": "https://github.com/cosmicog/VeniverseHelp/raw/master/thumbnails/earth.png",
             "downloadable": true,
             "copyright": "CreativeCommons Attribution-ShareALike"
         },
